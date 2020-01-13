@@ -20,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -191,9 +194,9 @@
       <screen x="0" y="23" width="2560" height="1333" />
     </state>
     <state x="768" y="271" key="SettingsEditor/-1440.291.1440.877/0.23.2560.1333/2560.152.1920.1177@0.23.2560.1333" timestamp="1576612973976" />
-    <state x="957" y="520" key="com.intellij.ide.util.TipDialog" timestamp="1578949143664">
+    <state x="957" y="520" key="com.intellij.ide.util.TipDialog" timestamp="1578949899947">
       <screen x="0" y="23" width="2560" height="1329" />
     </state>
-    <state x="957" y="520" key="com.intellij.ide.util.TipDialog/-1440.291.1440.877/0.23.2560.1329/2560.152.1920.1177@0.23.2560.1329" timestamp="1578949143664" />
+    <state x="957" y="520" key="com.intellij.ide.util.TipDialog/-1440.291.1440.877/0.23.2560.1329/2560.152.1920.1177@0.23.2560.1329" timestamp="1578949899947" />
   </component>
 </project>
