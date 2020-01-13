@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ad01db5-8544-44c8-be61-fdcb621a509c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UFCn0uVPoaXcXMAom78KUYXH2S" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.21034482" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="kwarszawski" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/web/src/main/resources" />
+      <recent name="$PROJECT_DIR$/core/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.WebMain">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kwarszawski.Main" />
+      <module name="console" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kwarszawski.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kwarszawski.WebMain" />
+      <module name="web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kwarszawski.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="console" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kwarszawski.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kwarszawski.WebMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WebMain" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ad01db5-8544-44c8-be61-fdcb621a509c" name="Default Changelist" comment="" />
+      <created>1574943119481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574943119481</updated>
+      <workItem from="1575483254800" duration="546000" />
+      <workItem from="1576612744241" duration="479000" />
+      <workItem from="1578949143254" duration="390000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="880" y="353" key="#Notifications" timestamp="1575483288848">
+      <screen x="0" y="23" width="2560" height="1329" />
+    </state>
+    <state x="880" y="353" key="#Notifications/-1440.291.1440.877/0.23.2560.1329/2560.152.1920.1177@0.23.2560.1329" timestamp="1575483288848" />
+    <state x="903" y="382" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1575483390521">
+      <screen x="0" y="23" width="2560" height="1329" />
+    </state>
+    <state x="903" y="382" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/-1440.291.1440.877/0.23.2560.1329/2560.152.1920.1177@0.23.2560.1329" timestamp="1575483390521" />
+    <state x="894" y="383" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1575483557821">
+      <screen x="0" y="23" width="2560" height="1329" />
+    </state>
+    <state x="894" y="383" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/-1440.291.1440.877/0.23.2560.1329/2560.152.1920.1177@0.23.2560.1329" timestamp="1575483557821" />
+    <state width="2518" height="379" key="GridCell.Tab.0.bottom" timestamp="1578949534170">
+      <screen x="0" y="23" width="2560" height="1329" />
+    </state>
+    <state width="2518" height="379" key="GridCell.Tab.0.bottom/-1440.291.1440.877/0.23.2560.1329/2560.152.1920.1177@0.23.2560.1329" timestamp="1578949534170" />
+    <state width="2518" height="381" key="GridCell.Tab.0.bottom/-1440.291.1440.877/0.23.2560.1333/2560.152.1920.1177@0.23.2560.1333" timestamp="1576613223485" />
+    <state width="2518" height="379" key="GridCell.Tab.0.center" timestamp="1578949534168">
+      <screen x="0" y="23" width="2560" height="1329" />
+    </state>
+    <state width="2518" height="379" key="GridCell.Tab.0.center/-1440.291.1440.877/0.23.2560.1329/2560.152.1920.1177@0.23.2560.1329" timestamp="1578949534168" />
+    <state width="2518" height="381" key="GridCell.Tab.0.center/-1440.291.1440.877/0.23.2560.1333/2560.152.1920.1177@0.23.2560.1333" timestamp="1576613223485" />
+    <state width="2518" height="379" key="GridCell.Tab.0.left" timestamp="1578949534168">
+      <screen x="0" y="23" width="2560" height="1329" />
+    </state>
+    <state width="2518" height="379" key="GridCell.Tab.0.left/-1440.291.1440.877/0.23.2560.1329/2560.152.1920.1177@0.23.2560.1329" timestamp="1578949534168" />
+    <state width="2518" height="381" key="GridCell.Tab.0.left/-1440.291.1440.877/0.23.2560.1333/2560.152.1920.1177@0.23.2560.1333" timestamp="1576613223484" />
+    <state width="2518" height="379" key="GridCell.Tab.0.right" timestamp="1578949534169">
+      <screen x="0" y="23" width="2560" height="1329" />
+    </state>
+    <state width="2518" height="379" key="GridCell.Tab.0.right/-1440.291.1440.877/0.23.2560.1329/2560.152.1920.1177@0.23.2560.1329" timestamp="1578949534169" />
+    <state width="2518" height="381" key="GridCell.Tab.0.right/-1440.291.1440.877/0.23.2560.1333/2560.152.1920.1177@0.23.2560.1333" timestamp="1576613223485" />
+    <state x="768" y="271" key="SettingsEditor" timestamp="1576612973976">
+      <screen x="0" y="23" width="2560" height="1333" />
+    </state>
+    <state x="768" y="271" key="SettingsEditor/-1440.291.1440.877/0.23.2560.1333/2560.152.1920.1177@0.23.2560.1333" timestamp="1576612973976" />
+    <state x="957" y="520" key="com.intellij.ide.util.TipDialog" timestamp="1578949143664">
+      <screen x="0" y="23" width="2560" height="1329" />
+    </state>
+    <state x="957" y="520" key="com.intellij.ide.util.TipDialog/-1440.291.1440.877/0.23.2560.1329/2560.152.1920.1177@0.23.2560.1329" timestamp="1578949143664" />
+  </component>
+</project>
